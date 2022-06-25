@@ -81,9 +81,7 @@ body{
   /* transform: translateY(130px); */
   /* transition:all 0.5s; */
 }
-.card:hover .content .details{
-  /* transform: translateY(0); */
-}
+
 .details h2{
   font-size: 1em;
   font-weight: 600;
