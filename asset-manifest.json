@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deepak-news-app/static/css/main.e55e5fa1.css",
+    "main.js": "/deepak-news-app/static/js/main.657eac6a.js",
+    "index.html": "/deepak-news-app/index.html",
+    "main.e55e5fa1.css.map": "/deepak-news-app/static/css/main.e55e5fa1.css.map",
+    "main.657eac6a.js.map": "/deepak-news-app/static/js/main.657eac6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55e5fa1.css",
+    "static/js/main.657eac6a.js"
+  ]
+}
